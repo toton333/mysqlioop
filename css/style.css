@@ -1,0 +1,65 @@
+*{
+margin:0px;
+padding:0px;
+
+}
+#loginForm{
+font:12px arial;
+ text-align:center;
+ width:300px;
+ padding:5px;
+ margin: 32px auto 32px;
+ background:#EBF4FB;
+border:1px solid #ACD8F0;
+}
+#container{
+
+ font:12px arial;
+ color:#222;
+ text-align:center;
+ padding:35px;
+ 
+
+}
+
+#wrapper{
+
+margin: 0px auto;
+width:504px;
+background:#EBF4FB;
+border:1px solid #ACD8F0;
+
+}
+
+#top{
+margin:0 auto;
+width:420px;
+padding:10px;
+
+}
+
+.welcome{ float:left;}
+.logout{float:right;}
+
+#middle{
+ text-align:left;
+ margin:0 auto;
+ margin-bottom:25px;
+ padding:10px;
+ background:#fff;
+ height:270px;
+ width:430px;
+ border:1px solid #ACD8F0;
+ overflow:auto;
+
+}
+
+#bottom{
+
+margin:20px;
+
+}
+.error{
+ text-align: center;
+ color:red;
+}
